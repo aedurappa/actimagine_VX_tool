@@ -1,6 +1,6 @@
 # ActImagine VX Encoder/Decoder Tool
 
-A tool to unpack and repack `.vx` video files — one of the video formats used in Nintendo DS games (e.g. Mega Man ZX) — so you can replace frames/audio and rebuild a playable `.vx` file.
+A tool to unpack and repack `.vx` video files — one of the video formats used in Nintendo DS games (e.g. Final Fantasy Crystal Chronicles: Ring of Fates) — so you can replace frames/audio and rebuild a playable `.vx` file.
 
 Drag a `.vx` file onto the program to unpack it into PNG frames + WAV audio.
 Drag an unpacked folder onto the program to repack it back into a `.vx` file (any `.wav` in the folder is used as the audio track automatically).
@@ -21,7 +21,7 @@ GPL-3.0 (same as the original library) — see [LICENSE](LICENSE).
 
 ## ActImagine VX 인코더/디코더 툴
 
-NDS 게임(예: Mega Man ZX)에서 쓰이는 영상 포맷 중 하나인 `.vx` 파일을 언패킹/리패킹하는 툴입니다. 프레임/오디오를 교체한 뒤 재생 가능한 `.vx`로 다시 빌드할 수 있습니다.
+NDS 게임(예: Final Fantasy Crystal Chronicles: Ring of Fates)에서 쓰이는 영상 포맷 중 하나인 `.vx` 파일을 언패킹/리패킹하는 툴입니다. 프레임/오디오를 교체한 뒤 재생 가능한 `.vx`로 다시 빌드할 수 있습니다.
 
 `.vx` 파일을 프로그램에 드래그하면 PNG 프레임 + WAV 오디오로 풀리고, 언패킹된 폴더를 드래그하면 다시 `.vx`로 합쳐집니다(폴더 안의 `.wav`는 자동으로 오디오 트랙으로 인식됨).
 
